@@ -6,5 +6,9 @@ enhancement by separating relevant information of a speaker and the background n
 
 
 NMF techniques implemented from:
-![https://inria.hal.science/hal-01631185/document] Cédric Févotte, Emmanuel Vincent, Alexey Ozerov. Single-channel audio source separation with NMF:
-divergences, constraints and algorithms. Audio Source Separation, Springer, 2018. ffhal-01631185f
+Cédric Févotte, Emmanuel Vincent, Alexey Ozerov. Single-channel audio source separation with NMF:
+divergences, constraints and algorithms. Audio Source Separation, Springer, 2018. ffhal-01631185f https://inria.hal.science/hal-01631185/document
+
+CNN model implemented from:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9025072/
+Blaszke M, Kostek B. Musical Instrument Identification Using Deep Learning Approach. Sensors (Basel). 2022 Apr 15;22(8):3033. doi: 10.3390/s22083033. PMID: 35459018; PMCID: PMC9025072.
