@@ -12,3 +12,5 @@ divergences, constraints and algorithms. Audio Source Separation, Springer, 2018
 CNN model implemented from:
 Blaszke M, Kostek B. Musical Instrument Identification Using Deep Learning Approach. Sensors (Basel). 2022 Apr 15;22(8):3033. doi: 10.3390/s22083033. PMID: 35459018; PMCID: PMC9025072.\
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9025072/
+
+Audio samples for NMF application were created in GarageBand by Kevin Lu using an M-Audio KeyRig49
